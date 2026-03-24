@@ -16,7 +16,7 @@ function saludar(){
 let nombre="GYM";
 let since= 12;
 
-alert("La persistencia es el camino al éxito : visitanos en " + nombreCurso+ " con "  + anio+ " años de experencia");
+alert("La persistencia es el camino al éxito : visitanos en " + nombre+ " con "  + since+ " años de experencia");
 }
 
 
